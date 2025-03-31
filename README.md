@@ -2,22 +2,16 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- [CyberSecurity Attack/Defend Home Lab](https://github.com/shaolyn68soc/sochomelab)
-- [Honeypot Home Lab](https://github.com/shaolyn68soc/honeypothomelab)   
+- [CyberSecurity Attack/Defend Home Lab](https://github.com/shaolyn68soc/sochomelab) 
 - [Active Directory Home Lab](https://github.com/shaolyn68soc/adhomelab)
 
 <h2>📄Certifications </h2>
 
 - [Google CyberSecurity Professional Certificate]
-  
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
 [x]: https://x.com/
-[youtube]: https://youtube.com/c/
 [linkedin]: https://linkedin.com/in/
 
 <!--
